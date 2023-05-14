@@ -11,7 +11,7 @@ pip install beautifulsoup4
 	</pre>
 	<h2>Usage</h2>
 	<p>To run the script, simply execute the following command in your terminal:</p>
-	<pre>python trending_topics_github.py</pre>
+	<pre>python main.py</pre>
 	<p>The script will output a list of the top trending repositories on GitHub, along with their links and about sections (if available).</p>
 	<h2>License</h2>
 	<p>This code is licensed under the MIT License. See the LICENSE file for more information.</p>
